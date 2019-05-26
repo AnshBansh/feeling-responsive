@@ -79,6 +79,12 @@
 
 {% endcomment %}
       <ul class="left">
+          <li>
+              <a href="{{ '/' | absolute_url }}" title="{{ site.title }} – {{ site.slogan }}">
+				<img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.logo }}" alt="{{ site.title }} – {{ site.slogan }}">
+			</a>
+          </li>
+          <li class="divider"></li>
         {% for link in site.data.navigation %}
 
               {% if link.url contains 'http' %}

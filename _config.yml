@@ -14,7 +14,7 @@ title: 'Anshul Bansal'
 slogan: 'A Dreamer and Entrepreneur'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: '»Anshul Bansal is an engineer with entrepreneurial mindset. Apart from building
+description: 'Anshul Bansal is an engineer with entrepreneurial mindset. Apart from building
 software and owner of ecommerce business he loves dance, travel, acting and his wife.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
@@ -22,7 +22,7 @@ software and owner of ecommerce business he loves dance, travel, acting and his 
 
 # Main author of the website
 # See > authors.yml
-author: phlow
+author: Anshul
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
@@ -43,7 +43,7 @@ urlimg: 'https://anshbansh.github.io/feeling-responsive/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "logo.png"
+logo: "AnshulBansal_logo.png"
 
 # Plugins
 plugins:
