@@ -6,6 +6,10 @@
   url: "/Portfolio/"
   side: left
 
+- title: Testimonials
+  url: "/Testimonials/"
+  side: left
+
 - title: Blog
   url: "/blog/"
   side: left
