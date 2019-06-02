@@ -1,21 +1,25 @@
-- title: Biography
-  url: "/Biography/"
+- title: Blog
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Technology"
+    url: "/blog/Technology/"
+  - title: "Business"
+    url: "/blog/Business/"
+  - title: "Personal Development"
+    url: "/blog/PersonalDevelopment/"
+  - title: "Well Being"
+    url: "/blog/WellBeing/"
+
+- title: Video
+  url: "/video/"
   side: left
 
 - title: Portfolio
   url: "/Portfolio/"
   side: left
 
-- title: Testimonials
-  url: "/Testimonials/"
-  side: left
 
-- title: Blog
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
 
 - title: "Search"
   url: "/search/"
