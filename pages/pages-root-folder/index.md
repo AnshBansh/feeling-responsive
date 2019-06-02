@@ -19,7 +19,7 @@ widget1:
 widget2:
   title: "WANT TO BUILD YOUR OWN WEBSITE?"
   url: 'https://github.com/AnshBansh/feeling-responsive'
-  text: 'Learn How to make free websites and earn 100$ per day,  <em>The Easy Way.</em>
+  text: 'Learn how to make free websites and earn 100$ per day,  <em>The Easy Way.</em>
 <br/>1. No Money required. :)
 <br/>2. Absolutely Free hostiing. No need to pay for expensive hosting services.
 <br/>3. Make your blogs viral and earn through affiliate marketing and google ads.'
