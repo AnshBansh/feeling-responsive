@@ -6,10 +6,9 @@
     url: "/blog/Technology/"
   - title: "Business"
     url: "/blog/Business/"
-  - title: "Personal Development"
-    url: "/blog/PersonalDevelopment/"
-  - title: "Well Being"
-    url: "/blog/WellBeing/"
+  - title: "Life Mastery"
+    url: "/blog/lifemastery/"
+
 
 - title: Video
   url: "/video/"
