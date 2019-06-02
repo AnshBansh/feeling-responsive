@@ -2,12 +2,13 @@
   url: "/blog/"
   side: left
   dropdown:
+  - title: "Life Mastery"
+    url: "/blog/lifemastery/"
   - title: "Technology"
     url: "/blog/Technology/"
   - title: "Business"
     url: "/blog/Business/"
-  - title: "Life Mastery"
-    url: "/blog/lifemastery/"
+
 
 
 - title: Video
