@@ -6,8 +6,9 @@
 #
 layout: frontpage
 header:
-  image: mainheader.jpg
-  pattern:  "pattern_concrete.jpg"
+  image_fullwidth: main2.jpg
+  caption: I Help People Become Financially Free. DO YOU HAVE WHAT IT TAKES?
+  caption_url: http://anshulbansal.com/
   
 widget1:
   title: "Blogs & More"
@@ -17,12 +18,12 @@ widget1:
   collection of thoughts and ideas from around the world. We Help People Become Financially Free. 
   Learn about money and more'
 widget2:
-  title: "WANT TO BUILD YOUR OWN WEBSITE?"
+  title: "WANT TO BECOME FINANCIALLY INDEPENDENT? JOIN OUR FREE TRAINING."
   url: 'https://github.com/AnshBansh/feeling-responsive'
-  text: 'Learn how to make free websites and earn 100$ per day,  <em>The Easy Way.</em>
-<br/>1. No Money required. :)
-<br/>2. Absolutely Free hostiing. No need to pay for expensive hosting services.
-<br/>3. Make your blogs viral and earn through affiliate marketing and google ads.'
+  text: '1. Learn how to make free websites and earn 100$ per day,  <em>The Easy Way.</em>
+<br/>2. Absolutely Free hosting. No need to pay for expensive hosting services.
+<br/>3. Learn Facebook Ads and marketing to grow your business exponentially. 
+<br/>4. Make your blogs viral and earn through affiliate marketing and google ads.'
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://www.anshulbansal.com/images/learngrow.jpg"
    width="302" height="182" alt=""/></a>'
 
